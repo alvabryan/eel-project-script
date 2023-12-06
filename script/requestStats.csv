@@ -1,0 +1,112 @@
+[
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 64.2
+    },
+    "startTime": "2023-12-06T19:22:50.925Z",
+    "endTime": "2023-12-06T19:22:50.966Z",
+    "duration": 0.041
+  },
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 49.4
+    },
+    "startTime": "2023-12-06T19:22:50.967Z",
+    "endTime": "2023-12-06T19:22:50.972Z",
+    "duration": 0.005
+  },
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 48.8
+    },
+    "startTime": "2023-12-06T19:22:50.972Z",
+    "endTime": "2023-12-06T19:22:50.975Z",
+    "duration": 0.003
+  },
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 46.4
+    },
+    "startTime": "2023-12-06T19:22:50.975Z",
+    "endTime": "2023-12-06T19:22:50.978Z",
+    "duration": 0.003
+  },
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 47.9
+    },
+    "startTime": "2023-12-06T19:22:50.978Z",
+    "endTime": "2023-12-06T19:22:50.981Z",
+    "duration": 0.003
+  },
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 48.7
+    },
+    "startTime": "2023-12-06T19:22:50.981Z",
+    "endTime": "2023-12-06T19:22:50.983Z",
+    "duration": 0.002
+  },
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 48.9
+    },
+    "startTime": "2023-12-06T19:22:50.984Z",
+    "endTime": "2023-12-06T19:22:50.986Z",
+    "duration": 0.002
+  },
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 49.1
+    },
+    "startTime": "2023-12-06T19:22:50.986Z",
+    "endTime": "2023-12-06T19:22:50.988Z",
+    "duration": 0.002
+  },
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 49
+    },
+    "startTime": "2023-12-06T19:22:50.988Z",
+    "endTime": "2023-12-06T19:22:50.991Z",
+    "duration": 0.003
+  },
+  {
+    "row": {
+      "Region": "Africa",
+      "Country": "Algeria",
+      "City": "Algiers",
+      "AvgTemperature": 51.9
+    },
+    "startTime": "2023-12-06T19:22:50.991Z",
+    "endTime": "2023-12-06T19:22:50.993Z",
+    "duration": 0.002
+  }
+]
